@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unit-4-6-assignment-a-CondesnsedMilk", "unit-4-6-assignment-a-CondesnsedMilk.csproj", "{B7220A16-E27A-0333-3EDC-1E3B22457AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7220A16-E27A-0333-3EDC-1E3B22457AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7220A16-E27A-0333-3EDC-1E3B22457AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7220A16-E27A-0333-3EDC-1E3B22457AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7220A16-E27A-0333-3EDC-1E3B22457AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FEE2BE9-1628-4CC9-B30B-AD52F86D39C7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/bin/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/bin/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.deps.json
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/bin/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.runtimeconfig.json
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/bin/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.dll
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/bin/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.pdb
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/obj/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/obj/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.AssemblyInfoInputs.cache
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/obj/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.AssemblyInfo.cs
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/obj/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.csproj.CoreCompileInputs.cache
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/obj/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.sourcelink.json
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/obj/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.dll
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/obj/Debug/net8.0/refint/unit-4-6-assignment-a-CondesnsedMilk.dll
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/obj/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.pdb
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/obj/Debug/net8.0/unit-4-6-assignment-a-CondesnsedMilk.genruntimeconfig.cache
+/workspaces/unit-4-6-assignment-a-CondesnsedMilk/obj/Debug/net8.0/ref/unit-4-6-assignment-a-CondesnsedMilk.dll
