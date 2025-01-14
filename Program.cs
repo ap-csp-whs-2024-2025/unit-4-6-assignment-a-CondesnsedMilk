@@ -4,27 +4,21 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("What's your first number!");
-        float input1 = Convert.ToSingle(Console.ReadLine());
-        Console.WriteLine("What's your second number!");
-        float input2 = Convert.ToSingle(Console.ReadLine());
-
-        Compare(input1, input2);
+        QuadForm(5, 9, 14);
     }
-
-    static void Compare(float input1, float input2)
+    static void QuadForm(double a, double b, double c)
     {
-        if (input1 > input2)
+        double x1 = -b + Math.Sqrt(Math.Pow(b,2) - 4 * a * c);
+        double x2 = -b - Math.Sqrt(Math.Pow(b,2) - 4 * a * c);
+        
+        if (!double.IsNaN(x1) || double.IsPositiveInfinity(x1) || double.IsNegativeInfinity(x1))
         {
-            Console.WriteLine($"{input1} is greater than {input2}");
-        }
-        else if (input1 < input2)
-        {
-            Console.WriteLine($"{input1} is greater than {input2}");
+            Console.WriteLine($"Your answers are {x1/2} and {x2/2}");
         }
         else
         {
-            Console.WriteLine("They are equal!");
+            Console.WriteLine("There are no x intercepts");
         }
+            
     }
 }
