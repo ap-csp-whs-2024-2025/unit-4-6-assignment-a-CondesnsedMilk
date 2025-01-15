@@ -6,22 +6,23 @@ class Program
 {
     static void Main(string[] args)
     {
-        
-    }
-    static void MinList(float a)
-    {
-        var listA = new List<int>() { 1, 2, 3, 4 };
+        var listC = new List<int>() { 1, 2, 3, 4 };
         var listB = new List<int>() {3, 2, 1, 0};
-        var listC = new List<int>() {-1, -5, -5, -3};
+        var listA = new List<int>() {-3, -5, -5, -3};
+
+        MinList(listB);
+    }
+    static void MinList(List<int> myPassedList)
+    {
 
         int count = 0;
-        int minNum;
+        int minNum = myPassedList.ElementAt(count);
 
-        while (count < listA.Count)
+        while (count < myPassedList.Count)
         {
-            if ()
+            if (minNum > myPassedList.ElementAt(count))
             {
-                listA.GetRange[];
+                minNum = myPassedList.ElementAt(count);
             }
             count++;
         }
